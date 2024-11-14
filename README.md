@@ -10,14 +10,14 @@ Stroller is a work-in-progress Golang project that aims to conduct SEO market an
 ### Use Case 1: New Job: Topic
 - A broad topic, such as "Golang" is provided.
 - Options are set, such as:
-  - # of derived subtopics
-  - # of keywords from subtopics
+  - \# of derived subtopics
+  - \# of keywords from subtopics
   - Frequency of search
 
 ### Use Case 2: New Job: Subtopic
 - A more specific topic (or subtopic), such as "Routing in Golang" is provided.
 - Options are set, such as:
-  - # of keywords from the subtopic
+  - \# of keywords from the subtopic
   - Frequency of search
 
 ## To Do's
