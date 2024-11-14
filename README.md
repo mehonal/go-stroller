@@ -22,7 +22,7 @@ Stroller is a work-in-progress Golang project that aims to conduct SEO market an
 
 ## To Do's
 - Minimal web interface for adding / editing / viewing / deleting jobs
-- Scraping web results
+- In Progress: Scraping web results
 - Integrate Proxies
 - Integrate GPT
 - Add Database
